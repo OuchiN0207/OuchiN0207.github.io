@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "software eng"
+title: "学んだこと"
 permalink: /docs/software-eng
 ---
 
