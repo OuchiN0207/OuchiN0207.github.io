@@ -1,8 +1,6 @@
----
 layout: page
 title: "学んだこと"
 permalink: /docs/software-eng
----
 
 # ソフトウェア工学 2024
 
