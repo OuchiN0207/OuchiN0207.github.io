@@ -10,4 +10,4 @@ title: "ソフトウェア工学　2024"
 
 git/github演習
 
-[学んだこと](/docs/software-eng.md)
+[software eng](/docs/software-eng)

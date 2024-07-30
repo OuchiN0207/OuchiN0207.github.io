@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "学んだこと"
-permalink: /docs/software-eng.md
+title: "software eng"
+permalink: /docs/software-eng
 ---
 
 # ソフトウェア工学 2024
@@ -11,7 +11,7 @@ permalink: /docs/software-eng.md
 ## git
 gitとは
 
-## 主なコマンド
+### 主なコマンド
 
   - init
 ```
