@@ -1,6 +1,8 @@
+---
 layout: page
 title: "学んだこと"
-permalink: /docs/software-eng
+permalink: /docs/software-eng.md
+---
 
 # ソフトウェア工学 2024
 
